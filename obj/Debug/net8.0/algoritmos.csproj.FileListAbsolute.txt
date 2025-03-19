@@ -1,0 +1,14 @@
+E:\5. Estudio\7. C#\algoritmos\bin\Debug\net8.0\algoritmos.exe
+E:\5. Estudio\7. C#\algoritmos\bin\Debug\net8.0\algoritmos.deps.json
+E:\5. Estudio\7. C#\algoritmos\bin\Debug\net8.0\algoritmos.runtimeconfig.json
+E:\5. Estudio\7. C#\algoritmos\bin\Debug\net8.0\algoritmos.dll
+E:\5. Estudio\7. C#\algoritmos\bin\Debug\net8.0\algoritmos.pdb
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\algoritmos.AssemblyInfoInputs.cache
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\algoritmos.AssemblyInfo.cs
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\algoritmos.csproj.CoreCompileInputs.cache
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\algoritmos.dll
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\refint\algoritmos.dll
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\algoritmos.pdb
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\algoritmos.genruntimeconfig.cache
+E:\5. Estudio\7. C#\algoritmos\obj\Debug\net8.0\ref\algoritmos.dll
